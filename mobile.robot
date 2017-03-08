@@ -12,5 +12,5 @@ Simple Smoke Test
     Wait Until Page Contains Element    id=com.example.android.contactmanager:id/addContactButton   timeout=180
     Capture Page Screenshot
     Tap    id=com.example.android.contactmanager:id/addContactButton
-    Wait Until Page Contains Element    id=com.example.android.contactmanager:id/addContactButton   timeout=180
+    Wait Until Page Contains Element    id=com.example.android.contactmanager:id/contactNameEditText
     Capture Page Screenshot
